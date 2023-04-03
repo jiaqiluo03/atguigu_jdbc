@@ -21,6 +21,6 @@ public class Tool {
 
     @Test
     public void softTool(){
-
+        System.out.println("git test");
     }
 }
