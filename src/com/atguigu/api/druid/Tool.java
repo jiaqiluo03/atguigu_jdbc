@@ -23,5 +23,6 @@ public class Tool {
     public void softTool(){
         System.out.println("git test");
         System.out.println("git test2");
+        System.out.println("git test3");
     }
 }
