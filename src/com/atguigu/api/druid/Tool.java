@@ -27,5 +27,6 @@ public class Tool {
         System.out.println("git test3");
         System.out.println("push test");
         System.out.println("pull test");
+        System.out.println("pull test2");
     }
 }
